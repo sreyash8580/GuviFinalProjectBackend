@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmployeeAppDB-Web.config Connection String" description="EmployeeAppDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5080.site4now.net,1433;Initial Catalog=db_a7d39e_sreyash;User Id=db_a7d39e_sreyash_admin;Password=sreyashbtc@8580" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\\.net\\Guvi\ Final\ Project\\api\\WebAPI\\WebApplication2\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeAppDB']/@connectionString" />
+  </parameter>
+</parameters>
